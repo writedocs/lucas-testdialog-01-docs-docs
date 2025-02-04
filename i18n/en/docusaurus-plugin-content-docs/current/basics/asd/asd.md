@@ -1,6 +1,6 @@
 ---
-title: test1
-slug: /test1
+title: asd
+slug: /asd
 description: S&O description
 ---
 
